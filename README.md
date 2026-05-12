@@ -36,3 +36,8 @@ vercel env ls production
 ```bash
 vercel env pull --environment=development
 ```
+
+#### Preview Environment এর জন্যে
+```bash
+vercel env pull --environment=preview
+```
