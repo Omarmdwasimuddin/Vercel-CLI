@@ -9,3 +9,11 @@ npm i -g vercel
 ```bash
 cd your-project-folder
 ```
+
+#### Vercel Project Link করুন
+##### যদি এখনও link না করা থাকে:
+```bash
+vercel link
+```
+##### এটি আপনাকে Vercel account এ login করতে বলবে
+##### এবং কোন project link করবেন তা select করতে হবে।
