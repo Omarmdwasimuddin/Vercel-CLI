@@ -31,3 +31,8 @@ vercel env pull
 vercel env ls production
 ```
 ##### এটি production এর সব variable names দেখাবে।
+
+#### Development Environment এর জন্যে
+```bash
+vercel env pull --environment=development
+```
