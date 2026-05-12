@@ -25,3 +25,9 @@ vercel env pull
 ```
 ##### এটি .env.local file তৈরি করবে যাতে সব variables থাকবেে
 
+#### Production Environment থেকে নির্দিষ্ট নিতে
+##### যদি শুধু production environment এর variables দেখতে চান:
+```bash
+vercel env ls production
+```
+##### এটি production এর সব variable names দেখাবে।
