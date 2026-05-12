@@ -41,3 +41,9 @@ vercel env pull --environment=development
 ```bash
 vercel env pull --environment=preview
 ```
+
+#### env.local File চেক করুনে
+##### Pull করার পর .env.local file খুলে দেখুন:
+```bash
+cat .env.local
+```
